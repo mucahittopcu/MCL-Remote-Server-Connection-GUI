@@ -45,10 +45,6 @@ Double-click the downloaded mcl-gui.exe file to install it.
 You can run it with a shortcut on the desktop.<br>
 
 [Download Here](www.google.com.tr)
-
-## Usage Video
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-[![asd](https://www.youtube.com/watch?v=oiKj0Z_Xnjc/0.jpg)](https://www.youtube.com/watch?v=oiKj0Z_Xnjc)
  
 ## For Developers
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
