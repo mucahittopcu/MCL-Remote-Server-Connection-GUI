@@ -26,7 +26,7 @@ Linux (Ubuntu-Debian)              |  Windows (Win10)
 :-------------------------:|:-------------------------:
 [![Download For Ubuntu](images/1linux-dow.png)](https://github.com/mucahittopcu/MCL-Remote-Server-Connection-GUI)|  [![Download For Win10](images/win_dow.png)](https://github.com/mucahittopcu/MCL-Remote-Server-Connection-GUI)
 
-###Ubuntu Installation
+### Ubuntu Installation
 
 ```sh
 wget "www.link.com"
@@ -40,7 +40,7 @@ To authorize the application file to run:
 chmod +x MarmaraConnector
 ```
 
-###Windows Installation
+### Windows Installation
 Double-click the downloaded mcl-gui.exe file to install it.
 You can run it with a shortcut on the desktop.<br>
 
@@ -48,7 +48,7 @@ You can run it with a shortcut on the desktop.<br>
 
 ## Usage Video
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=oiKj0Z_Xnjc)
+[![asd](https://www.youtube.com/watch?v=oiKj0Z_Xnjc/0.jpg)](https://www.youtube.com/watch?v=oiKj0Z_Xnjc)
  
 ## For Developers
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
